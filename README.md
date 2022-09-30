@@ -1,1 +1,1 @@
-# test.github.io
+# This is responsive Login page made with html, css and js.
